@@ -1,0 +1,45 @@
+.header {
+    background-color: aqua;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.content {
+    margin: 15px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.content:hover {
+    background-color: lightblue;
+}
+
+.hobbies {
+    margin: 15px;
+    padding: 20px;
+    background-color: lightgreen;
+}
+
+.hobbies:hover {
+    background-color: green;
+}
+
+.goals {
+    margin: 15px;
+    padding: 20px;
+    background-color: lightpink;
+}
+
+.goals:hover {
+    background-color: pink;
+}
+
+.footer {
+    background-color: aqua;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
